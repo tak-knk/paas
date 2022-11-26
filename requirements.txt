@@ -1,0 +1,6 @@
+Flask
+Gunicorn
+pip
+boto3
+Pillow
+pymongo
